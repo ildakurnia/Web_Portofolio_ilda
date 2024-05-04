@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Project Manager ",
+    "organisation": "Website Company Profile Logistic, Ekspor, Import ",
+    "startDate": "February, 2023",
+    "endDate": "June, 2023",
+    "experiences": ["As the Chairperson in the PBL, actively led and contributed to the development of a website project for a logistics and import-export company. ", "Designed essential features and requirements for the website, ensuring alignment with the company's goals and user needs."],
+    "imageSrc": "history/logo1.png"
+  },
+  {
+    "role": "Project Manager ",
+    "organisation": "Website Final Project Information System for Mechanical Engineering Department",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["As the Chairperson in the PBL, actively led and contributed to the development of a Website Final Project Information System for Mechanical Engineering Department ", "Gathering, analyzing, and understanding user needs, as well as designing appropriate solutions. "],
+    "imageSrc": "history/logo1.png"
+  }
+]
